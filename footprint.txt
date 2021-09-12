@@ -2,3 +2,6 @@ This is to record my entry in github
 
 I created this account when i was working in Apple
 Next i logged in after 4 years when i was taking KT from NXP
+
+From here i want ot test out the branch feature.
+So lines 6 and 7 should be in the branch and not in the master file.
